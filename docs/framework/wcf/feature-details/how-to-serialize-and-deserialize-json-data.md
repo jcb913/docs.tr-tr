@@ -1,5 +1,5 @@
 ---
-title: 'Nasıl yapılır: JSON Verilerini Seri Hale Getrime ve Seri Halden Çıkarma'
+title: 'Nasıl yapılır: JSON Verilerini Seri Hale Getirme ve Seri Halden Çıkarma'
 ms.date: 03/30/2017
 ms.assetid: 88abc1fb-8196-4ee3-a23b-c6934144d1dd
 ms.openlocfilehash: f51ffb180adfc8310c91ff3c1ec7b7725f6b8b15
